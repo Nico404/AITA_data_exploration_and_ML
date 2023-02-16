@@ -45,4 +45,4 @@ We're now deep diving into the data to actually build our Text Classifier and ho
 </table>
 
 [AutoTrained Model](https://huggingface.co/nicoco404/autotrain-aita-post-classifier-3535895495)
-<img src="assets/Computed.PNG" alt="first results" />
+<br/><img src="assets/Computed.PNG" alt="first results" />
