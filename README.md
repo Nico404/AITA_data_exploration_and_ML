@@ -9,7 +9,7 @@ We're now deep diving into the data to actually build our Text Classifier and ho
 
 ## Table of content
 - [AITA_data_exploration](AITA_data_exploration.ipynb): This notebook contains a brief exploration and statistical analysis of the data we fetched.
-- [ML_models](ML_models.ipynb): This notebook contains our first try at feeding our data to a Zero-Shot text classifier without any context and comparing performance over different parameters.
+- [Zero_shot_model](Zero_shot_model.ipynb): This notebook contains our first try at feeding our data to a Zero-Shot text classifier without any context and comparing performance over different parameters.
 - [Data_Labeling_for_Model_Autotraing](Data_Labeling_for_Model_Autotraing.ipynb): This notebook contains our first model AutoTraining on our data with good performance.
 
 [Training Dataset](https://huggingface.co/datasets/nicoco404/AITA_labeled_posts/viewer/nicoco404--AITA_labeled_posts/train) 
